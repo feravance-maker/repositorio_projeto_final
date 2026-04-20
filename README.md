@@ -1,2 +1,2 @@
 # repositorio_projeto_final
-repositorio para o projeto final aulas tecnicas de programação
+Repositorio para o projeto final aulas tecnicas de programação
